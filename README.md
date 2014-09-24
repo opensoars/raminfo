@@ -6,7 +6,7 @@ Simple tool to dump memory info and log about it.
 ---
 
 ## Dependencies
-* [ezlog](https://github.com/opensoars/ezlog);
+* [ezlog](https://github.com/opensoars/ezlog)
 
 
 ## Install
