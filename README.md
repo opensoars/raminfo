@@ -41,3 +41,8 @@ raminfo.log();
 raminfo.getInfo();
 
 ```
+
+
+## Todo
+* Tests
+* Code coverage
