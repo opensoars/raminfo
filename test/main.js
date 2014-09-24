@@ -16,7 +16,6 @@ describe('raminfo.set', function (){
 });
 */
 
-
 /*
 raminfo.set({
   
