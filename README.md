@@ -1,7 +1,14 @@
 raminfo
 =======
 
+[![Build Status](https://img.shields.io/travis/opensoars/raminfo.svg?style=flat)](https://travis-ci.org/opensoars/raminfo)
+[![Coverage Status](https://img.shields.io/coveralls/opensoars/raminfo.svg?style=flat)](https://coveralls.io/r/opensoars/raminfo)
+[![Dependency Status](https://david-dm.org/opensoars/raminfo.svg?style=flat)](https://david-dm.org/opensoars/raminfo)
+[![Development Dependency Status](https://david-dm.org/opensoars/raminfo/dev-status.svg?style=flat)](https://david-dm.org/opensoars/raminfo#info=devDependencies&view=table)
+
+
 Simple tool to dump memory info and log about it.
+
 
 ---
 
@@ -41,8 +48,3 @@ raminfo.log();
 raminfo.getInfo();
 
 ```
-
-
-## Todo
-* Tests
-* Code coverage
