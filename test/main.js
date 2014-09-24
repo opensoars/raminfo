@@ -117,7 +117,7 @@ describe('#clearDump', function (){
         if(files.length !== 1) throw 'clearDump() did not clear dumpDir';
         done();
       });
-    }, 500);
+    }, 750);
   });
 
   it('should not throw when we give wrong dumpDir but instead log about it below', function (){
