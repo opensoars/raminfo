@@ -1,3 +1,5 @@
+/*
+
 var raminfo = require('./../index.js');
 
 raminfo.set({
@@ -13,3 +15,5 @@ raminfo.set({
 var info = raminfo.getInfo();
 
 console.log(info);
+
+*/
