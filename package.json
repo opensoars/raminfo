@@ -1,0 +1,22 @@
+{
+  "name": "raminfo",
+  "version": "0.0.1",
+
+  "scripts": {
+  },
+
+  "dependencies": {
+    "ezlog": "0.0.10"
+  },
+
+  "devDependencies": {
+
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opensoars/raminfo"
+  },
+
+  "readmeFilename": "README.md"
+}

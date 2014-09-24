@@ -1,0 +1,7 @@
+"test": "mocha ./test/mocha.js && npm run coverage && npm run coveralls",
+"coverage": "istanbul cover ./test/coverage.js",
+"coveralls": "node node_modules/coveralls/bin/coveralls.js < coverage/lcov.info"
+
+"mocha": "*",
+"istanbul": "*",
+"coveralls": "*"
