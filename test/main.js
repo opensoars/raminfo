@@ -9,6 +9,7 @@ describe('requie', function (){
 });
 
 /*
+
 describe('raminfo.set', function (){
   it('should succesfuly', function (){
     
