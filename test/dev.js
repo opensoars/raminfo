@@ -1,7 +1,15 @@
 var raminfo = require('./../index.js');
 
+raminfo.set({
+  gc: global.gc,
+  dumpDir: __dirname + '/../raminfoDump',
+  logDumpFile: false
+});
 
-raminfo.setGc(global.gc);
 
 
-raminfo.getInfo();
+//raminfo.run();
+
+var info = raminfo.getInfo();
+
+console.log(info);
