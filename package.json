@@ -3,7 +3,7 @@
 
   "description": "Simple tool to dump memory info and log about it.",
 
-  "version": "0.0.1",
+  "version": "0.0.2",
 
   "scripts": {
     "test": "node node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha \"./test/mocha/*.js\" && npm run coveralls",
