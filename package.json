@@ -1,5 +1,8 @@
 {
   "name": "raminfo",
+
+  "description": "Simple tool to dump memory info and log about it.",
+
   "version": "0.0.1",
 
   "scripts": {
